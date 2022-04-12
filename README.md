@@ -1,1 +1,2 @@
-# kissflow_191ig109
+# kissflow_191ig109 
+# plagiarism checker for text, and paragraph
